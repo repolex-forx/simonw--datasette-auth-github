@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-auth-github/commit/1d47f69f5a38e36e8b8a861d42b1a3b722b09e8e",
       "git:hexsha": "1d47f69f5a38e36e8b8a861d42b1a3b722b09e8e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.0",
+      "repolex:parsedAt": "2026-10-12T16:33:02.666726+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/datasette-auth-github/commit/0bbfcdd568697796148dd8c53b86679e53a3c17c",
