@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "datasette-auth-github",
+  "versions": [
+    {
+      "commit": "1d47f69f5a38e36e8b8a861d42b1a3b722b09e8e",
+      "parsed_at": "2026-10-12T16:31:13.062935+00:00",
+      "tag": "1.0",
+      "filetree": "filetree/1d47f69f5a38e36e8b8a861d42b1a3b722b09e8e.nq.gz",
+      "blobs": [
+        "blob/211cc1db103639e03f39d3747088626effcaa61d.nq.gz",
+        "blob/42577d7b31ded5f96e336bf9dce121b779f21865.nq.gz",
+        "blob/b8a2a436b293016758b373603c0d35e3fb9ebbf4.nq.gz",
+        "blob/9d1f26915c164e749101f799f619e233d34b8e9c.nq.gz",
+        "blob/244e5caf2bbf0812dc8b8ec45a221ae73c1e8d36.nq.gz",
+        "blob/38f436b901ab210ac1a0312eaffbe0d00e3dc26a.nq.gz",
+        "blob/4e19e4febd04263eef24838d640ac31d4cf847e7.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/7a37debc062cfa3429a80f283714f057b0beaae3.nq.gz",
+        "blob/85822775a1db47ad8404d0fa95899a4bd477349e.nq.gz",
+        "blob/655e2d7f26a3bed1bfb64209194784fdd33ec394.nq.gz",
+        "blob/8c0000dd4fb686c883b55eb261c2a908f1b9fc7d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
